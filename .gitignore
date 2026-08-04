@@ -1,0 +1,67 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Downloaded GDC / TCGA slide data (very large)
+data/slides/
+*.svs
+*.tif
+*.tiff
+*.ndpi
+*.scn
+*.mrxs
+*.vms
+*.vmu
+*.bif
+
+# Synthetic and real image tiles (regeneratable)
+data/tiles/
+
+# GDC credentials / tokens
+gdc-user-token*.txt
+.gdc_token
+*.token
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model checkpoints (large — keep best results though)
+results/*.pth
+results/*.txt
+
+# Keep everything else in results/ (plots, JSON, CSV, MD)
+!results/*.png
+!results/*.json
+!results/*.csv
+!results/*.md
+
+# Keep data splits and clinical CSV (small, important)
+!data/*.csv
+!data/clinical/
+!data/README.md
+
+# pytest cache
+.pytest_cache/

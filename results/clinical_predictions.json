@@ -1,0 +1,92 @@
+{
+  "SYNTH-0003": {
+    "prob_idc": 0.7269035321509228,
+    "pred": 1,
+    "label": 0
+  },
+  "SYNTH-0004": {
+    "prob_idc": 0.7327949842380643,
+    "pred": 1,
+    "label": 1
+  },
+  "SYNTH-0011": {
+    "prob_idc": 0.7269035321509228,
+    "pred": 1,
+    "label": 1
+  },
+  "SYNTH-0013": {
+    "prob_idc": 0.7122550963001884,
+    "pred": 1,
+    "label": 1
+  },
+  "SYNTH-0014": {
+    "prob_idc": 0.7365218198440682,
+    "pred": 1,
+    "label": 1
+  },
+  "SYNTH-0017": {
+    "prob_idc": 0.7122550963001884,
+    "pred": 1,
+    "label": 1
+  },
+  "SYNTH-0028": {
+    "prob_idc": 0.7221921228479167,
+    "pred": 1,
+    "label": 1
+  },
+  "SYNTH-0031": {
+    "prob_idc": 0.7221921228479167,
+    "pred": 1,
+    "label": 1
+  },
+  "SYNTH-0035": {
+    "prob_idc": 0.7365218198440682,
+    "pred": 1,
+    "label": 1
+  },
+  "SYNTH-0054": {
+    "prob_idc": 0.7365218198440682,
+    "pred": 1,
+    "label": 1
+  },
+  "SYNTH-0069": {
+    "prob_idc": 0.7122550963001884,
+    "pred": 1,
+    "label": 1
+  },
+  "SYNTH-0075": {
+    "prob_idc": 0.7122550963001884,
+    "pred": 1,
+    "label": 1
+  },
+  "SYNTH-0081": {
+    "prob_idc": 0.7269035321509228,
+    "pred": 1,
+    "label": 1
+  },
+  "SYNTH-0086": {
+    "prob_idc": 0.7467695407929357,
+    "pred": 1,
+    "label": 1
+  },
+  "SYNTH-0094": {
+    "prob_idc": 0.7365218198440682,
+    "pred": 1,
+    "label": 1
+  },
+  "SYNTH-0111": {
+    "prob_idc": 0.7269035321509228,
+    "pred": 1,
+    "label": 1
+  },
+  "SYNTH-0116": {
+    "prob_idc": 0.7467695407929357,
+    "pred": 1,
+    "label": 0
+  },
+  "SYNTH-0117": {
+    "prob_idc": 0.7221921228479167,
+    "pred": 1,
+    "label": 1
+  }
+}

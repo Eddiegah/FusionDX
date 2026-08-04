@@ -1,0 +1,673 @@
+submitter_id,age_at_diagnosis,tumor_stage,primary_diagnosis,morphology,er_status,pr_status,her2_status,vital_status,gender,race,label,tile_path
+SYNTH-0001,20547.20550200616,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,negative,not reported,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0001\tile_000.png
+SYNTH-0001,20547.20550200616,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,negative,not reported,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0001\tile_001.png
+SYNTH-0001,20547.20550200616,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,negative,not reported,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0001\tile_002.png
+SYNTH-0001,20547.20550200616,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,negative,not reported,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0001\tile_003.png
+SYNTH-0001,20547.20550200616,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,negative,not reported,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0001\tile_004.png
+SYNTH-0001,20547.20550200616,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,negative,not reported,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0001\tile_005.png
+SYNTH-0001,20547.20550200616,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,negative,not reported,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0001\tile_006.png
+SYNTH-0001,20547.20550200616,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,negative,not reported,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0001\tile_007.png
+SYNTH-0002,18059.349425519307,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,american indian or alaska native,0,C:\Projects\FusionDx\data\tiles\SYNTH-0002\tile_000.png
+SYNTH-0002,18059.349425519307,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,american indian or alaska native,0,C:\Projects\FusionDx\data\tiles\SYNTH-0002\tile_001.png
+SYNTH-0002,18059.349425519307,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,american indian or alaska native,0,C:\Projects\FusionDx\data\tiles\SYNTH-0002\tile_002.png
+SYNTH-0002,18059.349425519307,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,american indian or alaska native,0,C:\Projects\FusionDx\data\tiles\SYNTH-0002\tile_003.png
+SYNTH-0002,18059.349425519307,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,american indian or alaska native,0,C:\Projects\FusionDx\data\tiles\SYNTH-0002\tile_004.png
+SYNTH-0002,18059.349425519307,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,american indian or alaska native,0,C:\Projects\FusionDx\data\tiles\SYNTH-0002\tile_005.png
+SYNTH-0002,18059.349425519307,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,american indian or alaska native,0,C:\Projects\FusionDx\data\tiles\SYNTH-0002\tile_006.png
+SYNTH-0002,18059.349425519307,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,american indian or alaska native,0,C:\Projects\FusionDx\data\tiles\SYNTH-0002\tile_007.png
+SYNTH-0005,20732.451641568772,stage ib,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0005\tile_000.png
+SYNTH-0005,20732.451641568772,stage ib,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0005\tile_001.png
+SYNTH-0005,20732.451641568772,stage ib,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0005\tile_002.png
+SYNTH-0005,20732.451641568772,stage ib,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0005\tile_003.png
+SYNTH-0005,20732.451641568772,stage ib,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0005\tile_004.png
+SYNTH-0005,20732.451641568772,stage ib,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0005\tile_005.png
+SYNTH-0005,20732.451641568772,stage ib,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0005\tile_006.png
+SYNTH-0005,20732.451641568772,stage ib,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0005\tile_007.png
+SYNTH-0006,21915.329581149017,stage iib,"Lobular carcinoma, NOS",8520/3,positive,positive,positive,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0006\tile_000.png
+SYNTH-0006,21915.329581149017,stage iib,"Lobular carcinoma, NOS",8520/3,positive,positive,positive,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0006\tile_001.png
+SYNTH-0006,21915.329581149017,stage iib,"Lobular carcinoma, NOS",8520/3,positive,positive,positive,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0006\tile_002.png
+SYNTH-0006,21915.329581149017,stage iib,"Lobular carcinoma, NOS",8520/3,positive,positive,positive,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0006\tile_003.png
+SYNTH-0006,21915.329581149017,stage iib,"Lobular carcinoma, NOS",8520/3,positive,positive,positive,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0006\tile_004.png
+SYNTH-0006,21915.329581149017,stage iib,"Lobular carcinoma, NOS",8520/3,positive,positive,positive,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0006\tile_005.png
+SYNTH-0006,21915.329581149017,stage iib,"Lobular carcinoma, NOS",8520/3,positive,positive,positive,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0006\tile_006.png
+SYNTH-0006,21915.329581149017,stage iib,"Lobular carcinoma, NOS",8520/3,positive,positive,positive,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0006\tile_007.png
+SYNTH-0007,15585.580733040526,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0007\tile_000.png
+SYNTH-0007,15585.580733040526,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0007\tile_001.png
+SYNTH-0007,15585.580733040526,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0007\tile_002.png
+SYNTH-0007,15585.580733040526,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0007\tile_003.png
+SYNTH-0007,15585.580733040526,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0007\tile_004.png
+SYNTH-0007,15585.580733040526,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0007\tile_005.png
+SYNTH-0007,15585.580733040526,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0007\tile_006.png
+SYNTH-0007,15585.580733040526,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0007\tile_007.png
+SYNTH-0008,15916.977186516433,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0008\tile_000.png
+SYNTH-0008,15916.977186516433,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0008\tile_001.png
+SYNTH-0008,15916.977186516433,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0008\tile_002.png
+SYNTH-0008,15916.977186516433,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0008\tile_003.png
+SYNTH-0008,15916.977186516433,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0008\tile_004.png
+SYNTH-0008,15916.977186516433,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0008\tile_005.png
+SYNTH-0008,15916.977186516433,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0008\tile_006.png
+SYNTH-0008,15916.977186516433,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0008\tile_007.png
+SYNTH-0009,13690.298950660777,stage i,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0009\tile_000.png
+SYNTH-0009,13690.298950660777,stage i,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0009\tile_001.png
+SYNTH-0009,13690.298950660777,stage i,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0009\tile_002.png
+SYNTH-0009,13690.298950660777,stage i,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0009\tile_003.png
+SYNTH-0009,13690.298950660777,stage i,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0009\tile_004.png
+SYNTH-0009,13690.298950660777,stage i,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0009\tile_005.png
+SYNTH-0009,13690.298950660777,stage i,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0009\tile_006.png
+SYNTH-0009,13690.298950660777,stage i,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0009\tile_007.png
+SYNTH-0010,19104.55947991978,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0010\tile_000.png
+SYNTH-0010,19104.55947991978,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0010\tile_001.png
+SYNTH-0010,19104.55947991978,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0010\tile_002.png
+SYNTH-0010,19104.55947991978,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0010\tile_003.png
+SYNTH-0010,19104.55947991978,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0010\tile_004.png
+SYNTH-0010,19104.55947991978,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0010\tile_005.png
+SYNTH-0010,19104.55947991978,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0010\tile_006.png
+SYNTH-0010,19104.55947991978,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0010\tile_007.png
+SYNTH-0012,19261.174532124183,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0012\tile_000.png
+SYNTH-0012,19261.174532124183,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0012\tile_001.png
+SYNTH-0012,19261.174532124183,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0012\tile_002.png
+SYNTH-0012,19261.174532124183,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0012\tile_003.png
+SYNTH-0012,19261.174532124183,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0012\tile_004.png
+SYNTH-0012,19261.174532124183,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0012\tile_005.png
+SYNTH-0012,19261.174532124183,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0012\tile_006.png
+SYNTH-0012,19261.174532124183,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0012\tile_007.png
+SYNTH-0015,25280.920467820535,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0015\tile_000.png
+SYNTH-0015,25280.920467820535,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0015\tile_001.png
+SYNTH-0015,25280.920467820535,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0015\tile_002.png
+SYNTH-0015,25280.920467820535,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0015\tile_003.png
+SYNTH-0015,25280.920467820535,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0015\tile_004.png
+SYNTH-0015,25280.920467820535,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0015\tile_005.png
+SYNTH-0015,25280.920467820535,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0015\tile_006.png
+SYNTH-0015,25280.920467820535,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0015\tile_007.png
+SYNTH-0016,24429.76572668119,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,positive,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0016\tile_000.png
+SYNTH-0016,24429.76572668119,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,positive,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0016\tile_001.png
+SYNTH-0016,24429.76572668119,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,positive,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0016\tile_002.png
+SYNTH-0016,24429.76572668119,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,positive,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0016\tile_003.png
+SYNTH-0016,24429.76572668119,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,positive,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0016\tile_004.png
+SYNTH-0016,24429.76572668119,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,positive,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0016\tile_005.png
+SYNTH-0016,24429.76572668119,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,positive,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0016\tile_006.png
+SYNTH-0016,24429.76572668119,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,positive,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0016\tile_007.png
+SYNTH-0018,17880.438544665703,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0018\tile_000.png
+SYNTH-0018,17880.438544665703,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0018\tile_001.png
+SYNTH-0018,17880.438544665703,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0018\tile_002.png
+SYNTH-0018,17880.438544665703,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0018\tile_003.png
+SYNTH-0018,17880.438544665703,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0018\tile_004.png
+SYNTH-0018,17880.438544665703,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0018\tile_005.png
+SYNTH-0018,17880.438544665703,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0018\tile_006.png
+SYNTH-0018,17880.438544665703,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0018\tile_007.png
+SYNTH-0019,22351.881867956912,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0019\tile_000.png
+SYNTH-0019,22351.881867956912,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0019\tile_001.png
+SYNTH-0019,22351.881867956912,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0019\tile_002.png
+SYNTH-0019,22351.881867956912,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0019\tile_003.png
+SYNTH-0019,22351.881867956912,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0019\tile_004.png
+SYNTH-0019,22351.881867956912,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0019\tile_005.png
+SYNTH-0019,22351.881867956912,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0019\tile_006.png
+SYNTH-0019,22351.881867956912,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0019\tile_007.png
+SYNTH-0020,14507.533518159273,stage i,"Lobular carcinoma, NOS",8520/3,positive,not reported,negative,Alive,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0020\tile_000.png
+SYNTH-0020,14507.533518159273,stage i,"Lobular carcinoma, NOS",8520/3,positive,not reported,negative,Alive,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0020\tile_001.png
+SYNTH-0020,14507.533518159273,stage i,"Lobular carcinoma, NOS",8520/3,positive,not reported,negative,Dead,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0020\tile_002.png
+SYNTH-0020,14507.533518159273,stage i,"Lobular carcinoma, NOS",8520/3,positive,not reported,negative,Alive,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0020\tile_003.png
+SYNTH-0020,14507.533518159273,stage i,"Lobular carcinoma, NOS",8520/3,positive,not reported,negative,Dead,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0020\tile_004.png
+SYNTH-0020,14507.533518159273,stage i,"Lobular carcinoma, NOS",8520/3,positive,not reported,negative,Dead,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0020\tile_005.png
+SYNTH-0020,14507.533518159273,stage i,"Lobular carcinoma, NOS",8520/3,positive,not reported,negative,Alive,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0020\tile_006.png
+SYNTH-0020,14507.533518159273,stage i,"Lobular carcinoma, NOS",8520/3,positive,not reported,negative,Dead,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0020\tile_007.png
+SYNTH-0021,18898.640761116578,stage iiib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0021\tile_000.png
+SYNTH-0021,18898.640761116578,stage iiib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0021\tile_001.png
+SYNTH-0021,18898.640761116578,stage iiib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0021\tile_002.png
+SYNTH-0021,18898.640761116578,stage iiib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0021\tile_003.png
+SYNTH-0021,18898.640761116578,stage iiib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0021\tile_004.png
+SYNTH-0021,18898.640761116578,stage iiib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0021\tile_005.png
+SYNTH-0021,18898.640761116578,stage iiib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0021\tile_006.png
+SYNTH-0021,18898.640761116578,stage iiib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0021\tile_007.png
+SYNTH-0022,15197.416842187959,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0022\tile_000.png
+SYNTH-0022,15197.416842187959,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0022\tile_001.png
+SYNTH-0022,15197.416842187959,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0022\tile_002.png
+SYNTH-0022,15197.416842187959,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0022\tile_003.png
+SYNTH-0022,15197.416842187959,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0022\tile_004.png
+SYNTH-0022,15197.416842187959,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0022\tile_005.png
+SYNTH-0022,15197.416842187959,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0022\tile_006.png
+SYNTH-0022,15197.416842187959,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0022\tile_007.png
+SYNTH-0023,14966.748128803914,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0023\tile_000.png
+SYNTH-0023,14966.748128803914,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0023\tile_001.png
+SYNTH-0023,14966.748128803914,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0023\tile_002.png
+SYNTH-0023,14966.748128803914,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0023\tile_003.png
+SYNTH-0023,14966.748128803914,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0023\tile_004.png
+SYNTH-0023,14966.748128803914,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0023\tile_005.png
+SYNTH-0023,14966.748128803914,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0023\tile_006.png
+SYNTH-0023,14966.748128803914,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0023\tile_007.png
+SYNTH-0024,21448.70679697256,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0024\tile_000.png
+SYNTH-0024,21448.70679697256,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0024\tile_001.png
+SYNTH-0024,21448.70679697256,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0024\tile_002.png
+SYNTH-0024,21448.70679697256,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0024\tile_003.png
+SYNTH-0024,21448.70679697256,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0024\tile_004.png
+SYNTH-0024,21448.70679697256,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0024\tile_005.png
+SYNTH-0024,21448.70679697256,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0024\tile_006.png
+SYNTH-0024,21448.70679697256,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0024\tile_007.png
+SYNTH-0026,20046.344281290305,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0026\tile_000.png
+SYNTH-0026,20046.344281290305,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0026\tile_001.png
+SYNTH-0026,20046.344281290305,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0026\tile_002.png
+SYNTH-0026,20046.344281290305,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0026\tile_003.png
+SYNTH-0026,20046.344281290305,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0026\tile_004.png
+SYNTH-0026,20046.344281290305,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0026\tile_005.png
+SYNTH-0026,20046.344281290305,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0026\tile_006.png
+SYNTH-0026,20046.344281290305,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0026\tile_007.png
+SYNTH-0030,17588.32041590236,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Dead,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0030\tile_000.png
+SYNTH-0030,17588.32041590236,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Dead,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0030\tile_001.png
+SYNTH-0030,17588.32041590236,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Alive,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0030\tile_002.png
+SYNTH-0030,17588.32041590236,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Dead,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0030\tile_003.png
+SYNTH-0030,17588.32041590236,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Dead,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0030\tile_004.png
+SYNTH-0030,17588.32041590236,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Dead,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0030\tile_005.png
+SYNTH-0030,17588.32041590236,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Dead,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0030\tile_006.png
+SYNTH-0030,17588.32041590236,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Dead,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0030\tile_007.png
+SYNTH-0032,19506.64340520635,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0032\tile_000.png
+SYNTH-0032,19506.64340520635,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0032\tile_001.png
+SYNTH-0032,19506.64340520635,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0032\tile_002.png
+SYNTH-0032,19506.64340520635,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0032\tile_003.png
+SYNTH-0032,19506.64340520635,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0032\tile_004.png
+SYNTH-0032,19506.64340520635,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0032\tile_005.png
+SYNTH-0032,19506.64340520635,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0032\tile_006.png
+SYNTH-0032,19506.64340520635,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0032\tile_007.png
+SYNTH-0033,13100.100148406002,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0033\tile_000.png
+SYNTH-0033,13100.100148406002,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0033\tile_001.png
+SYNTH-0033,13100.100148406002,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0033\tile_002.png
+SYNTH-0033,13100.100148406002,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0033\tile_003.png
+SYNTH-0033,13100.100148406002,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0033\tile_004.png
+SYNTH-0033,13100.100148406002,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0033\tile_005.png
+SYNTH-0033,13100.100148406002,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0033\tile_006.png
+SYNTH-0033,13100.100148406002,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0033\tile_007.png
+SYNTH-0034,26520.34579206231,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0034\tile_000.png
+SYNTH-0034,26520.34579206231,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0034\tile_001.png
+SYNTH-0034,26520.34579206231,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0034\tile_002.png
+SYNTH-0034,26520.34579206231,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0034\tile_003.png
+SYNTH-0034,26520.34579206231,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0034\tile_004.png
+SYNTH-0034,26520.34579206231,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0034\tile_005.png
+SYNTH-0034,26520.34579206231,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0034\tile_006.png
+SYNTH-0034,26520.34579206231,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0034\tile_007.png
+SYNTH-0036,19943.18607390092,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,not reported,negative,negative,Alive,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0036\tile_000.png
+SYNTH-0036,19943.18607390092,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,not reported,negative,negative,Alive,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0036\tile_001.png
+SYNTH-0036,19943.18607390092,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,not reported,negative,negative,Alive,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0036\tile_002.png
+SYNTH-0036,19943.18607390092,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,not reported,negative,negative,Dead,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0036\tile_003.png
+SYNTH-0036,19943.18607390092,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,not reported,negative,negative,Dead,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0036\tile_004.png
+SYNTH-0036,19943.18607390092,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,not reported,negative,negative,Alive,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0036\tile_005.png
+SYNTH-0036,19943.18607390092,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,not reported,negative,negative,Dead,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0036\tile_006.png
+SYNTH-0036,19943.18607390092,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,not reported,negative,negative,Alive,female,not reported,1,C:\Projects\FusionDx\data\tiles\SYNTH-0036\tile_007.png
+SYNTH-0037,15906.958012584117,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Dead,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0037\tile_000.png
+SYNTH-0037,15906.958012584117,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Dead,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0037\tile_001.png
+SYNTH-0037,15906.958012584117,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Alive,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0037\tile_002.png
+SYNTH-0037,15906.958012584117,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Dead,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0037\tile_003.png
+SYNTH-0037,15906.958012584117,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Alive,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0037\tile_004.png
+SYNTH-0037,15906.958012584117,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Alive,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0037\tile_005.png
+SYNTH-0037,15906.958012584117,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Alive,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0037\tile_006.png
+SYNTH-0037,15906.958012584117,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Alive,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0037\tile_007.png
+SYNTH-0038,23727.3845391105,stage iia,"Lobular carcinoma, NOS",8520/3,positive,not reported,negative,Alive,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0038\tile_000.png
+SYNTH-0038,23727.3845391105,stage iia,"Lobular carcinoma, NOS",8520/3,positive,not reported,negative,Alive,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0038\tile_001.png
+SYNTH-0038,23727.3845391105,stage iia,"Lobular carcinoma, NOS",8520/3,positive,not reported,negative,Dead,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0038\tile_002.png
+SYNTH-0038,23727.3845391105,stage iia,"Lobular carcinoma, NOS",8520/3,positive,not reported,negative,Dead,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0038\tile_003.png
+SYNTH-0038,23727.3845391105,stage iia,"Lobular carcinoma, NOS",8520/3,positive,not reported,negative,Alive,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0038\tile_004.png
+SYNTH-0038,23727.3845391105,stage iia,"Lobular carcinoma, NOS",8520/3,positive,not reported,negative,Dead,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0038\tile_005.png
+SYNTH-0038,23727.3845391105,stage iia,"Lobular carcinoma, NOS",8520/3,positive,not reported,negative,Alive,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0038\tile_006.png
+SYNTH-0038,23727.3845391105,stage iia,"Lobular carcinoma, NOS",8520/3,positive,not reported,negative,Alive,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0038\tile_007.png
+SYNTH-0039,16891.379199710547,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0039\tile_000.png
+SYNTH-0039,16891.379199710547,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0039\tile_001.png
+SYNTH-0039,16891.379199710547,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0039\tile_002.png
+SYNTH-0039,16891.379199710547,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0039\tile_003.png
+SYNTH-0039,16891.379199710547,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0039\tile_004.png
+SYNTH-0039,16891.379199710547,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0039\tile_005.png
+SYNTH-0039,16891.379199710547,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0039\tile_006.png
+SYNTH-0039,16891.379199710547,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0039\tile_007.png
+SYNTH-0040,19421.052176424415,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,positive,Alive,female,asian,0,C:\Projects\FusionDx\data\tiles\SYNTH-0040\tile_000.png
+SYNTH-0040,19421.052176424415,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,positive,Alive,female,asian,0,C:\Projects\FusionDx\data\tiles\SYNTH-0040\tile_001.png
+SYNTH-0040,19421.052176424415,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,positive,Alive,female,asian,0,C:\Projects\FusionDx\data\tiles\SYNTH-0040\tile_002.png
+SYNTH-0040,19421.052176424415,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,positive,Dead,female,asian,0,C:\Projects\FusionDx\data\tiles\SYNTH-0040\tile_003.png
+SYNTH-0040,19421.052176424415,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,positive,Dead,female,asian,0,C:\Projects\FusionDx\data\tiles\SYNTH-0040\tile_004.png
+SYNTH-0040,19421.052176424415,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,positive,Alive,female,asian,0,C:\Projects\FusionDx\data\tiles\SYNTH-0040\tile_005.png
+SYNTH-0040,19421.052176424415,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,positive,Dead,female,asian,0,C:\Projects\FusionDx\data\tiles\SYNTH-0040\tile_006.png
+SYNTH-0040,19421.052176424415,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,positive,Dead,female,asian,0,C:\Projects\FusionDx\data\tiles\SYNTH-0040\tile_007.png
+SYNTH-0041,22199.21753254773,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0041\tile_000.png
+SYNTH-0041,22199.21753254773,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0041\tile_001.png
+SYNTH-0041,22199.21753254773,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0041\tile_002.png
+SYNTH-0041,22199.21753254773,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0041\tile_003.png
+SYNTH-0041,22199.21753254773,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0041\tile_004.png
+SYNTH-0041,22199.21753254773,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0041\tile_005.png
+SYNTH-0041,22199.21753254773,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0041\tile_006.png
+SYNTH-0041,22199.21753254773,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0041\tile_007.png
+SYNTH-0042,18569.805721746634,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0042\tile_000.png
+SYNTH-0042,18569.805721746634,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0042\tile_001.png
+SYNTH-0042,18569.805721746634,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0042\tile_002.png
+SYNTH-0042,18569.805721746634,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0042\tile_003.png
+SYNTH-0042,18569.805721746634,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0042\tile_004.png
+SYNTH-0042,18569.805721746634,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0042\tile_005.png
+SYNTH-0042,18569.805721746634,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0042\tile_006.png
+SYNTH-0042,18569.805721746634,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0042\tile_007.png
+SYNTH-0043,21689.15196950447,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,not reported,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0043\tile_000.png
+SYNTH-0043,21689.15196950447,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,not reported,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0043\tile_001.png
+SYNTH-0043,21689.15196950447,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,not reported,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0043\tile_002.png
+SYNTH-0043,21689.15196950447,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,not reported,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0043\tile_003.png
+SYNTH-0043,21689.15196950447,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,not reported,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0043\tile_004.png
+SYNTH-0043,21689.15196950447,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,not reported,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0043\tile_005.png
+SYNTH-0043,21689.15196950447,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,not reported,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0043\tile_006.png
+SYNTH-0043,21689.15196950447,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,not reported,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0043\tile_007.png
+SYNTH-0044,21324.799191625745,stage ii,"Lobular carcinoma, NOS",8520/3,not reported,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0044\tile_000.png
+SYNTH-0044,21324.799191625745,stage ii,"Lobular carcinoma, NOS",8520/3,not reported,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0044\tile_001.png
+SYNTH-0044,21324.799191625745,stage ii,"Lobular carcinoma, NOS",8520/3,not reported,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0044\tile_002.png
+SYNTH-0044,21324.799191625745,stage ii,"Lobular carcinoma, NOS",8520/3,not reported,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0044\tile_003.png
+SYNTH-0044,21324.799191625745,stage ii,"Lobular carcinoma, NOS",8520/3,not reported,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0044\tile_004.png
+SYNTH-0044,21324.799191625745,stage ii,"Lobular carcinoma, NOS",8520/3,not reported,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0044\tile_005.png
+SYNTH-0044,21324.799191625745,stage ii,"Lobular carcinoma, NOS",8520/3,not reported,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0044\tile_006.png
+SYNTH-0044,21324.799191625745,stage ii,"Lobular carcinoma, NOS",8520/3,not reported,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0044\tile_007.png
+SYNTH-0045,23623.633457862685,stage ib,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0045\tile_000.png
+SYNTH-0045,23623.633457862685,stage ib,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0045\tile_001.png
+SYNTH-0045,23623.633457862685,stage ib,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0045\tile_002.png
+SYNTH-0045,23623.633457862685,stage ib,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0045\tile_003.png
+SYNTH-0045,23623.633457862685,stage ib,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0045\tile_004.png
+SYNTH-0045,23623.633457862685,stage ib,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0045\tile_005.png
+SYNTH-0045,23623.633457862685,stage ib,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0045\tile_006.png
+SYNTH-0045,23623.633457862685,stage ib,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0045\tile_007.png
+SYNTH-0046,24441.339329127226,stage ii,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0046\tile_000.png
+SYNTH-0046,24441.339329127226,stage ii,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0046\tile_001.png
+SYNTH-0046,24441.339329127226,stage ii,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0046\tile_002.png
+SYNTH-0046,24441.339329127226,stage ii,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0046\tile_003.png
+SYNTH-0046,24441.339329127226,stage ii,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0046\tile_004.png
+SYNTH-0046,24441.339329127226,stage ii,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0046\tile_005.png
+SYNTH-0046,24441.339329127226,stage ii,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0046\tile_006.png
+SYNTH-0046,24441.339329127226,stage ii,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0046\tile_007.png
+SYNTH-0047,22074.552789855403,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,negative,negative,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0047\tile_000.png
+SYNTH-0047,22074.552789855403,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,negative,negative,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0047\tile_001.png
+SYNTH-0047,22074.552789855403,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,negative,negative,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0047\tile_002.png
+SYNTH-0047,22074.552789855403,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,negative,negative,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0047\tile_003.png
+SYNTH-0047,22074.552789855403,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,negative,negative,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0047\tile_004.png
+SYNTH-0047,22074.552789855403,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,negative,negative,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0047\tile_005.png
+SYNTH-0047,22074.552789855403,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,negative,negative,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0047\tile_006.png
+SYNTH-0047,22074.552789855403,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,negative,negative,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0047\tile_007.png
+SYNTH-0048,25924.102166600635,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0048\tile_000.png
+SYNTH-0048,25924.102166600635,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0048\tile_001.png
+SYNTH-0048,25924.102166600635,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0048\tile_002.png
+SYNTH-0048,25924.102166600635,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0048\tile_003.png
+SYNTH-0048,25924.102166600635,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0048\tile_004.png
+SYNTH-0048,25924.102166600635,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0048\tile_005.png
+SYNTH-0048,25924.102166600635,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0048\tile_006.png
+SYNTH-0048,25924.102166600635,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0048\tile_007.png
+SYNTH-0049,18053.245301897077,stage iib,"Lobular carcinoma, NOS",8520/3,negative,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0049\tile_000.png
+SYNTH-0049,18053.245301897077,stage iib,"Lobular carcinoma, NOS",8520/3,negative,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0049\tile_001.png
+SYNTH-0049,18053.245301897077,stage iib,"Lobular carcinoma, NOS",8520/3,negative,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0049\tile_002.png
+SYNTH-0049,18053.245301897077,stage iib,"Lobular carcinoma, NOS",8520/3,negative,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0049\tile_003.png
+SYNTH-0049,18053.245301897077,stage iib,"Lobular carcinoma, NOS",8520/3,negative,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0049\tile_004.png
+SYNTH-0049,18053.245301897077,stage iib,"Lobular carcinoma, NOS",8520/3,negative,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0049\tile_005.png
+SYNTH-0049,18053.245301897077,stage iib,"Lobular carcinoma, NOS",8520/3,negative,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0049\tile_006.png
+SYNTH-0049,18053.245301897077,stage iib,"Lobular carcinoma, NOS",8520/3,negative,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0049\tile_007.png
+SYNTH-0050,22324.050931309415,stage ii,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0050\tile_000.png
+SYNTH-0050,22324.050931309415,stage ii,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0050\tile_001.png
+SYNTH-0050,22324.050931309415,stage ii,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0050\tile_002.png
+SYNTH-0050,22324.050931309415,stage ii,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0050\tile_003.png
+SYNTH-0050,22324.050931309415,stage ii,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0050\tile_004.png
+SYNTH-0050,22324.050931309415,stage ii,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0050\tile_005.png
+SYNTH-0050,22324.050931309415,stage ii,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0050\tile_006.png
+SYNTH-0050,22324.050931309415,stage ii,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0050\tile_007.png
+SYNTH-0051,18905.12044616314,stage iii,"Lobular carcinoma, NOS",8520/3,negative,positive,positive,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0051\tile_000.png
+SYNTH-0051,18905.12044616314,stage iii,"Lobular carcinoma, NOS",8520/3,negative,positive,positive,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0051\tile_001.png
+SYNTH-0051,18905.12044616314,stage iii,"Lobular carcinoma, NOS",8520/3,negative,positive,positive,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0051\tile_002.png
+SYNTH-0051,18905.12044616314,stage iii,"Lobular carcinoma, NOS",8520/3,negative,positive,positive,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0051\tile_003.png
+SYNTH-0051,18905.12044616314,stage iii,"Lobular carcinoma, NOS",8520/3,negative,positive,positive,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0051\tile_004.png
+SYNTH-0051,18905.12044616314,stage iii,"Lobular carcinoma, NOS",8520/3,negative,positive,positive,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0051\tile_005.png
+SYNTH-0051,18905.12044616314,stage iii,"Lobular carcinoma, NOS",8520/3,negative,positive,positive,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0051\tile_006.png
+SYNTH-0051,18905.12044616314,stage iii,"Lobular carcinoma, NOS",8520/3,negative,positive,positive,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0051\tile_007.png
+SYNTH-0052,23873.84936154264,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0052\tile_000.png
+SYNTH-0052,23873.84936154264,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0052\tile_001.png
+SYNTH-0052,23873.84936154264,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0052\tile_002.png
+SYNTH-0052,23873.84936154264,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0052\tile_003.png
+SYNTH-0052,23873.84936154264,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0052\tile_004.png
+SYNTH-0052,23873.84936154264,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0052\tile_005.png
+SYNTH-0052,23873.84936154264,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0052\tile_006.png
+SYNTH-0052,23873.84936154264,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0052\tile_007.png
+SYNTH-0055,20426.947135153245,stage iiia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0055\tile_000.png
+SYNTH-0055,20426.947135153245,stage iiia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0055\tile_001.png
+SYNTH-0055,20426.947135153245,stage iiia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0055\tile_002.png
+SYNTH-0055,20426.947135153245,stage iiia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0055\tile_003.png
+SYNTH-0055,20426.947135153245,stage iiia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0055\tile_004.png
+SYNTH-0055,20426.947135153245,stage iiia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0055\tile_005.png
+SYNTH-0055,20426.947135153245,stage iiia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0055\tile_006.png
+SYNTH-0055,20426.947135153245,stage iiia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0055\tile_007.png
+SYNTH-0056,15780.025245684606,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0056\tile_000.png
+SYNTH-0056,15780.025245684606,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0056\tile_001.png
+SYNTH-0056,15780.025245684606,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0056\tile_002.png
+SYNTH-0056,15780.025245684606,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0056\tile_003.png
+SYNTH-0056,15780.025245684606,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0056\tile_004.png
+SYNTH-0056,15780.025245684606,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0056\tile_005.png
+SYNTH-0056,15780.025245684606,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0056\tile_006.png
+SYNTH-0056,15780.025245684606,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0056\tile_007.png
+SYNTH-0058,24759.67458241617,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0058\tile_000.png
+SYNTH-0058,24759.67458241617,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0058\tile_001.png
+SYNTH-0058,24759.67458241617,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0058\tile_002.png
+SYNTH-0058,24759.67458241617,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0058\tile_003.png
+SYNTH-0058,24759.67458241617,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0058\tile_004.png
+SYNTH-0058,24759.67458241617,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0058\tile_005.png
+SYNTH-0058,24759.67458241617,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0058\tile_006.png
+SYNTH-0058,24759.67458241617,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0058\tile_007.png
+SYNTH-0059,18963.116570632366,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0059\tile_000.png
+SYNTH-0059,18963.116570632366,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0059\tile_001.png
+SYNTH-0059,18963.116570632366,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0059\tile_002.png
+SYNTH-0059,18963.116570632366,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0059\tile_003.png
+SYNTH-0059,18963.116570632366,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0059\tile_004.png
+SYNTH-0059,18963.116570632366,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0059\tile_005.png
+SYNTH-0059,18963.116570632366,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0059\tile_006.png
+SYNTH-0059,18963.116570632366,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0059\tile_007.png
+SYNTH-0060,20289.456042669124,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0060\tile_000.png
+SYNTH-0060,20289.456042669124,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0060\tile_001.png
+SYNTH-0060,20289.456042669124,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0060\tile_002.png
+SYNTH-0060,20289.456042669124,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0060\tile_003.png
+SYNTH-0060,20289.456042669124,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0060\tile_004.png
+SYNTH-0060,20289.456042669124,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0060\tile_005.png
+SYNTH-0060,20289.456042669124,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0060\tile_006.png
+SYNTH-0060,20289.456042669124,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0060\tile_007.png
+SYNTH-0061,19400.80565299468,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0061\tile_000.png
+SYNTH-0061,19400.80565299468,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0061\tile_001.png
+SYNTH-0061,19400.80565299468,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0061\tile_002.png
+SYNTH-0061,19400.80565299468,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0061\tile_003.png
+SYNTH-0061,19400.80565299468,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0061\tile_004.png
+SYNTH-0061,19400.80565299468,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0061\tile_005.png
+SYNTH-0061,19400.80565299468,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0061\tile_006.png
+SYNTH-0061,19400.80565299468,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,not reported,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0061\tile_007.png
+SYNTH-0062,24303.806382038492,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0062\tile_000.png
+SYNTH-0062,24303.806382038492,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0062\tile_001.png
+SYNTH-0062,24303.806382038492,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0062\tile_002.png
+SYNTH-0062,24303.806382038492,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0062\tile_003.png
+SYNTH-0062,24303.806382038492,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0062\tile_004.png
+SYNTH-0062,24303.806382038492,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0062\tile_005.png
+SYNTH-0062,24303.806382038492,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0062\tile_006.png
+SYNTH-0062,24303.806382038492,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0062\tile_007.png
+SYNTH-0063,19254.187445110063,stage iv,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0063\tile_000.png
+SYNTH-0063,19254.187445110063,stage iv,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0063\tile_001.png
+SYNTH-0063,19254.187445110063,stage iv,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0063\tile_002.png
+SYNTH-0063,19254.187445110063,stage iv,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0063\tile_003.png
+SYNTH-0063,19254.187445110063,stage iv,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0063\tile_004.png
+SYNTH-0063,19254.187445110063,stage iv,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0063\tile_005.png
+SYNTH-0063,19254.187445110063,stage iv,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0063\tile_006.png
+SYNTH-0063,19254.187445110063,stage iv,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0063\tile_007.png
+SYNTH-0065,21435.902087169798,stage ia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0065\tile_000.png
+SYNTH-0065,21435.902087169798,stage ia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0065\tile_001.png
+SYNTH-0065,21435.902087169798,stage ia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0065\tile_002.png
+SYNTH-0065,21435.902087169798,stage ia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0065\tile_003.png
+SYNTH-0065,21435.902087169798,stage ia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0065\tile_004.png
+SYNTH-0065,21435.902087169798,stage ia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0065\tile_005.png
+SYNTH-0065,21435.902087169798,stage ia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0065\tile_006.png
+SYNTH-0065,21435.902087169798,stage ia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0065\tile_007.png
+SYNTH-0066,21363.495064027884,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0066\tile_000.png
+SYNTH-0066,21363.495064027884,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0066\tile_001.png
+SYNTH-0066,21363.495064027884,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0066\tile_002.png
+SYNTH-0066,21363.495064027884,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0066\tile_003.png
+SYNTH-0066,21363.495064027884,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0066\tile_004.png
+SYNTH-0066,21363.495064027884,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0066\tile_005.png
+SYNTH-0066,21363.495064027884,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0066\tile_006.png
+SYNTH-0066,21363.495064027884,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0066\tile_007.png
+SYNTH-0067,20551.701239969596,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0067\tile_000.png
+SYNTH-0067,20551.701239969596,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0067\tile_001.png
+SYNTH-0067,20551.701239969596,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0067\tile_002.png
+SYNTH-0067,20551.701239969596,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0067\tile_003.png
+SYNTH-0067,20551.701239969596,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0067\tile_004.png
+SYNTH-0067,20551.701239969596,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0067\tile_005.png
+SYNTH-0067,20551.701239969596,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0067\tile_006.png
+SYNTH-0067,20551.701239969596,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0067\tile_007.png
+SYNTH-0068,24893.632618077136,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0068\tile_000.png
+SYNTH-0068,24893.632618077136,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0068\tile_001.png
+SYNTH-0068,24893.632618077136,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0068\tile_002.png
+SYNTH-0068,24893.632618077136,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0068\tile_003.png
+SYNTH-0068,24893.632618077136,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0068\tile_004.png
+SYNTH-0068,24893.632618077136,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0068\tile_005.png
+SYNTH-0068,24893.632618077136,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0068\tile_006.png
+SYNTH-0068,24893.632618077136,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0068\tile_007.png
+SYNTH-0070,22352.32277360159,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0070\tile_000.png
+SYNTH-0070,22352.32277360159,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0070\tile_001.png
+SYNTH-0070,22352.32277360159,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0070\tile_002.png
+SYNTH-0070,22352.32277360159,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0070\tile_003.png
+SYNTH-0070,22352.32277360159,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0070\tile_004.png
+SYNTH-0070,22352.32277360159,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0070\tile_005.png
+SYNTH-0070,22352.32277360159,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0070\tile_006.png
+SYNTH-0070,22352.32277360159,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0070\tile_007.png
+SYNTH-0072,21225.82448808182,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0072\tile_000.png
+SYNTH-0072,21225.82448808182,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0072\tile_001.png
+SYNTH-0072,21225.82448808182,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0072\tile_002.png
+SYNTH-0072,21225.82448808182,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0072\tile_003.png
+SYNTH-0072,21225.82448808182,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0072\tile_004.png
+SYNTH-0072,21225.82448808182,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0072\tile_005.png
+SYNTH-0072,21225.82448808182,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0072\tile_006.png
+SYNTH-0072,21225.82448808182,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0072\tile_007.png
+SYNTH-0073,12944.243798217642,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0073\tile_000.png
+SYNTH-0073,12944.243798217642,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0073\tile_001.png
+SYNTH-0073,12944.243798217642,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,negative,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0073\tile_002.png
+SYNTH-0073,12944.243798217642,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,negative,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0073\tile_003.png
+SYNTH-0073,12944.243798217642,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0073\tile_004.png
+SYNTH-0073,12944.243798217642,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,negative,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0073\tile_005.png
+SYNTH-0073,12944.243798217642,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,negative,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0073\tile_006.png
+SYNTH-0073,12944.243798217642,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,negative,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0073\tile_007.png
+SYNTH-0074,20462.575148962842,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0074\tile_000.png
+SYNTH-0074,20462.575148962842,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0074\tile_001.png
+SYNTH-0074,20462.575148962842,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0074\tile_002.png
+SYNTH-0074,20462.575148962842,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0074\tile_003.png
+SYNTH-0074,20462.575148962842,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0074\tile_004.png
+SYNTH-0074,20462.575148962842,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0074\tile_005.png
+SYNTH-0074,20462.575148962842,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0074\tile_006.png
+SYNTH-0074,20462.575148962842,stage iiic,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0074\tile_007.png
+SYNTH-0076,22476.500714088645,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0076\tile_000.png
+SYNTH-0076,22476.500714088645,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0076\tile_001.png
+SYNTH-0076,22476.500714088645,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0076\tile_002.png
+SYNTH-0076,22476.500714088645,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0076\tile_003.png
+SYNTH-0076,22476.500714088645,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0076\tile_004.png
+SYNTH-0076,22476.500714088645,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0076\tile_005.png
+SYNTH-0076,22476.500714088645,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0076\tile_006.png
+SYNTH-0076,22476.500714088645,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0076\tile_007.png
+SYNTH-0078,27236.971806345075,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0078\tile_000.png
+SYNTH-0078,27236.971806345075,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0078\tile_001.png
+SYNTH-0078,27236.971806345075,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0078\tile_002.png
+SYNTH-0078,27236.971806345075,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0078\tile_003.png
+SYNTH-0078,27236.971806345075,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0078\tile_004.png
+SYNTH-0078,27236.971806345075,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0078\tile_005.png
+SYNTH-0078,27236.971806345075,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0078\tile_006.png
+SYNTH-0078,27236.971806345075,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0078\tile_007.png
+SYNTH-0079,12778.7024658712,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0079\tile_000.png
+SYNTH-0079,12778.7024658712,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0079\tile_001.png
+SYNTH-0079,12778.7024658712,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0079\tile_002.png
+SYNTH-0079,12778.7024658712,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0079\tile_003.png
+SYNTH-0079,12778.7024658712,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0079\tile_004.png
+SYNTH-0079,12778.7024658712,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0079\tile_005.png
+SYNTH-0079,12778.7024658712,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0079\tile_006.png
+SYNTH-0079,12778.7024658712,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,positive,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0079\tile_007.png
+SYNTH-0080,19199.24569871346,stage iiia,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0080\tile_000.png
+SYNTH-0080,19199.24569871346,stage iiia,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0080\tile_001.png
+SYNTH-0080,19199.24569871346,stage iiia,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0080\tile_002.png
+SYNTH-0080,19199.24569871346,stage iiia,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0080\tile_003.png
+SYNTH-0080,19199.24569871346,stage iiia,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0080\tile_004.png
+SYNTH-0080,19199.24569871346,stage iiia,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0080\tile_005.png
+SYNTH-0080,19199.24569871346,stage iiia,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0080\tile_006.png
+SYNTH-0080,19199.24569871346,stage iiia,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0080\tile_007.png
+SYNTH-0082,19618.25496589033,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0082\tile_000.png
+SYNTH-0082,19618.25496589033,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0082\tile_001.png
+SYNTH-0082,19618.25496589033,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0082\tile_002.png
+SYNTH-0082,19618.25496589033,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0082\tile_003.png
+SYNTH-0082,19618.25496589033,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0082\tile_004.png
+SYNTH-0082,19618.25496589033,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0082\tile_005.png
+SYNTH-0082,19618.25496589033,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0082\tile_006.png
+SYNTH-0082,19618.25496589033,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0082\tile_007.png
+SYNTH-0084,26949.148637100137,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0084\tile_000.png
+SYNTH-0084,26949.148637100137,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0084\tile_001.png
+SYNTH-0084,26949.148637100137,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0084\tile_002.png
+SYNTH-0084,26949.148637100137,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0084\tile_003.png
+SYNTH-0084,26949.148637100137,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0084\tile_004.png
+SYNTH-0084,26949.148637100137,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0084\tile_005.png
+SYNTH-0084,26949.148637100137,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0084\tile_006.png
+SYNTH-0084,26949.148637100137,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0084\tile_007.png
+SYNTH-0085,21586.925909274243,stage ii,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0085\tile_000.png
+SYNTH-0085,21586.925909274243,stage ii,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0085\tile_001.png
+SYNTH-0085,21586.925909274243,stage ii,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0085\tile_002.png
+SYNTH-0085,21586.925909274243,stage ii,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0085\tile_003.png
+SYNTH-0085,21586.925909274243,stage ii,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0085\tile_004.png
+SYNTH-0085,21586.925909274243,stage ii,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0085\tile_005.png
+SYNTH-0085,21586.925909274243,stage ii,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0085\tile_006.png
+SYNTH-0085,21586.925909274243,stage ii,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0085\tile_007.png
+SYNTH-0087,14664.865943709203,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0087\tile_000.png
+SYNTH-0087,14664.865943709203,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0087\tile_001.png
+SYNTH-0087,14664.865943709203,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0087\tile_002.png
+SYNTH-0087,14664.865943709203,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0087\tile_003.png
+SYNTH-0087,14664.865943709203,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0087\tile_004.png
+SYNTH-0087,14664.865943709203,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0087\tile_005.png
+SYNTH-0087,14664.865943709203,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Dead,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0087\tile_006.png
+SYNTH-0087,14664.865943709203,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,negative,Alive,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0087\tile_007.png
+SYNTH-0088,18092.498460055325,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0088\tile_000.png
+SYNTH-0088,18092.498460055325,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0088\tile_001.png
+SYNTH-0088,18092.498460055325,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0088\tile_002.png
+SYNTH-0088,18092.498460055325,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0088\tile_003.png
+SYNTH-0088,18092.498460055325,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0088\tile_004.png
+SYNTH-0088,18092.498460055325,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0088\tile_005.png
+SYNTH-0088,18092.498460055325,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0088\tile_006.png
+SYNTH-0088,18092.498460055325,stage i,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0088\tile_007.png
+SYNTH-0090,12439.239230619489,stage iia,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0090\tile_000.png
+SYNTH-0090,12439.239230619489,stage iia,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0090\tile_001.png
+SYNTH-0090,12439.239230619489,stage iia,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0090\tile_002.png
+SYNTH-0090,12439.239230619489,stage iia,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0090\tile_003.png
+SYNTH-0090,12439.239230619489,stage iia,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Dead,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0090\tile_004.png
+SYNTH-0090,12439.239230619489,stage iia,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0090\tile_005.png
+SYNTH-0090,12439.239230619489,stage iia,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0090\tile_006.png
+SYNTH-0090,12439.239230619489,stage iia,"Lobular carcinoma, NOS",8520/3,positive,positive,negative,Alive,female,black or african american,0,C:\Projects\FusionDx\data\tiles\SYNTH-0090\tile_007.png
+SYNTH-0092,20483.11452475019,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0092\tile_000.png
+SYNTH-0092,20483.11452475019,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0092\tile_001.png
+SYNTH-0092,20483.11452475019,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0092\tile_002.png
+SYNTH-0092,20483.11452475019,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0092\tile_003.png
+SYNTH-0092,20483.11452475019,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0092\tile_004.png
+SYNTH-0092,20483.11452475019,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0092\tile_005.png
+SYNTH-0092,20483.11452475019,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0092\tile_006.png
+SYNTH-0092,20483.11452475019,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0092\tile_007.png
+SYNTH-0093,18944.31729846924,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0093\tile_000.png
+SYNTH-0093,18944.31729846924,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0093\tile_001.png
+SYNTH-0093,18944.31729846924,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0093\tile_002.png
+SYNTH-0093,18944.31729846924,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0093\tile_003.png
+SYNTH-0093,18944.31729846924,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0093\tile_004.png
+SYNTH-0093,18944.31729846924,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0093\tile_005.png
+SYNTH-0093,18944.31729846924,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0093\tile_006.png
+SYNTH-0093,18944.31729846924,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,asian,1,C:\Projects\FusionDx\data\tiles\SYNTH-0093\tile_007.png
+SYNTH-0095,16244.766655008973,stage iii,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Alive,female,asian,0,C:\Projects\FusionDx\data\tiles\SYNTH-0095\tile_000.png
+SYNTH-0095,16244.766655008973,stage iii,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Alive,female,asian,0,C:\Projects\FusionDx\data\tiles\SYNTH-0095\tile_001.png
+SYNTH-0095,16244.766655008973,stage iii,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Alive,female,asian,0,C:\Projects\FusionDx\data\tiles\SYNTH-0095\tile_002.png
+SYNTH-0095,16244.766655008973,stage iii,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Alive,female,asian,0,C:\Projects\FusionDx\data\tiles\SYNTH-0095\tile_003.png
+SYNTH-0095,16244.766655008973,stage iii,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Dead,female,asian,0,C:\Projects\FusionDx\data\tiles\SYNTH-0095\tile_004.png
+SYNTH-0095,16244.766655008973,stage iii,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Dead,female,asian,0,C:\Projects\FusionDx\data\tiles\SYNTH-0095\tile_005.png
+SYNTH-0095,16244.766655008973,stage iii,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Alive,female,asian,0,C:\Projects\FusionDx\data\tiles\SYNTH-0095\tile_006.png
+SYNTH-0095,16244.766655008973,stage iii,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Dead,female,asian,0,C:\Projects\FusionDx\data\tiles\SYNTH-0095\tile_007.png
+SYNTH-0096,20905.76704126921,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0096\tile_000.png
+SYNTH-0096,20905.76704126921,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0096\tile_001.png
+SYNTH-0096,20905.76704126921,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0096\tile_002.png
+SYNTH-0096,20905.76704126921,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0096\tile_003.png
+SYNTH-0096,20905.76704126921,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0096\tile_004.png
+SYNTH-0096,20905.76704126921,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0096\tile_005.png
+SYNTH-0096,20905.76704126921,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0096\tile_006.png
+SYNTH-0096,20905.76704126921,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,positive,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0096\tile_007.png
+SYNTH-0097,24095.611034161444,stage iib,"Lobular carcinoma, NOS",8520/3,negative,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0097\tile_000.png
+SYNTH-0097,24095.611034161444,stage iib,"Lobular carcinoma, NOS",8520/3,negative,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0097\tile_001.png
+SYNTH-0097,24095.611034161444,stage iib,"Lobular carcinoma, NOS",8520/3,negative,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0097\tile_002.png
+SYNTH-0097,24095.611034161444,stage iib,"Lobular carcinoma, NOS",8520/3,negative,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0097\tile_003.png
+SYNTH-0097,24095.611034161444,stage iib,"Lobular carcinoma, NOS",8520/3,negative,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0097\tile_004.png
+SYNTH-0097,24095.611034161444,stage iib,"Lobular carcinoma, NOS",8520/3,negative,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0097\tile_005.png
+SYNTH-0097,24095.611034161444,stage iib,"Lobular carcinoma, NOS",8520/3,negative,positive,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0097\tile_006.png
+SYNTH-0097,24095.611034161444,stage iib,"Lobular carcinoma, NOS",8520/3,negative,positive,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0097\tile_007.png
+SYNTH-0098,24463.617627465155,stage iia,"Lobular carcinoma, NOS",8520/3,positive,negative,positive,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0098\tile_000.png
+SYNTH-0098,24463.617627465155,stage iia,"Lobular carcinoma, NOS",8520/3,positive,negative,positive,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0098\tile_001.png
+SYNTH-0098,24463.617627465155,stage iia,"Lobular carcinoma, NOS",8520/3,positive,negative,positive,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0098\tile_002.png
+SYNTH-0098,24463.617627465155,stage iia,"Lobular carcinoma, NOS",8520/3,positive,negative,positive,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0098\tile_003.png
+SYNTH-0098,24463.617627465155,stage iia,"Lobular carcinoma, NOS",8520/3,positive,negative,positive,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0098\tile_004.png
+SYNTH-0098,24463.617627465155,stage iia,"Lobular carcinoma, NOS",8520/3,positive,negative,positive,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0098\tile_005.png
+SYNTH-0098,24463.617627465155,stage iia,"Lobular carcinoma, NOS",8520/3,positive,negative,positive,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0098\tile_006.png
+SYNTH-0098,24463.617627465155,stage iia,"Lobular carcinoma, NOS",8520/3,positive,negative,positive,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0098\tile_007.png
+SYNTH-0099,21396.9051462195,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0099\tile_000.png
+SYNTH-0099,21396.9051462195,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0099\tile_001.png
+SYNTH-0099,21396.9051462195,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0099\tile_002.png
+SYNTH-0099,21396.9051462195,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0099\tile_003.png
+SYNTH-0099,21396.9051462195,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0099\tile_004.png
+SYNTH-0099,21396.9051462195,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0099\tile_005.png
+SYNTH-0099,21396.9051462195,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0099\tile_006.png
+SYNTH-0099,21396.9051462195,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0099\tile_007.png
+SYNTH-0100,19607.327755069433,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0100\tile_000.png
+SYNTH-0100,19607.327755069433,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0100\tile_001.png
+SYNTH-0100,19607.327755069433,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0100\tile_002.png
+SYNTH-0100,19607.327755069433,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0100\tile_003.png
+SYNTH-0100,19607.327755069433,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0100\tile_004.png
+SYNTH-0100,19607.327755069433,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0100\tile_005.png
+SYNTH-0100,19607.327755069433,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0100\tile_006.png
+SYNTH-0100,19607.327755069433,stage i,"Infiltrating duct carcinoma, NOS",8500/3,positive,negative,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0100\tile_007.png
+SYNTH-0101,21249.56413781866,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0101\tile_000.png
+SYNTH-0101,21249.56413781866,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0101\tile_001.png
+SYNTH-0101,21249.56413781866,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0101\tile_002.png
+SYNTH-0101,21249.56413781866,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0101\tile_003.png
+SYNTH-0101,21249.56413781866,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0101\tile_004.png
+SYNTH-0101,21249.56413781866,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0101\tile_005.png
+SYNTH-0101,21249.56413781866,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0101\tile_006.png
+SYNTH-0101,21249.56413781866,stage iv,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,black or african american,1,C:\Projects\FusionDx\data\tiles\SYNTH-0101\tile_007.png
+SYNTH-0103,17617.215795857017,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0103\tile_000.png
+SYNTH-0103,17617.215795857017,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0103\tile_001.png
+SYNTH-0103,17617.215795857017,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0103\tile_002.png
+SYNTH-0103,17617.215795857017,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0103\tile_003.png
+SYNTH-0103,17617.215795857017,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0103\tile_004.png
+SYNTH-0103,17617.215795857017,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0103\tile_005.png
+SYNTH-0103,17617.215795857017,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0103\tile_006.png
+SYNTH-0103,17617.215795857017,stage iib,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0103\tile_007.png
+SYNTH-0104,23171.236260302976,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,not reported,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0104\tile_000.png
+SYNTH-0104,23171.236260302976,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,not reported,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0104\tile_001.png
+SYNTH-0104,23171.236260302976,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,not reported,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0104\tile_002.png
+SYNTH-0104,23171.236260302976,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,not reported,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0104\tile_003.png
+SYNTH-0104,23171.236260302976,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,not reported,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0104\tile_004.png
+SYNTH-0104,23171.236260302976,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,not reported,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0104\tile_005.png
+SYNTH-0104,23171.236260302976,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,not reported,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0104\tile_006.png
+SYNTH-0104,23171.236260302976,not reported,"Infiltrating duct carcinoma, NOS",8500/3,positive,not reported,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0104\tile_007.png
+SYNTH-0108,20703.554943580704,stage iv,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0108\tile_000.png
+SYNTH-0108,20703.554943580704,stage iv,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0108\tile_001.png
+SYNTH-0108,20703.554943580704,stage iv,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0108\tile_002.png
+SYNTH-0108,20703.554943580704,stage iv,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0108\tile_003.png
+SYNTH-0108,20703.554943580704,stage iv,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0108\tile_004.png
+SYNTH-0108,20703.554943580704,stage iv,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0108\tile_005.png
+SYNTH-0108,20703.554943580704,stage iv,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0108\tile_006.png
+SYNTH-0108,20703.554943580704,stage iv,"Lobular carcinoma, NOS",8520/3,positive,negative,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0108\tile_007.png
+SYNTH-0109,19543.93620116828,stage ia,"Lobular carcinoma, NOS",8520/3,negative,positive,positive,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0109\tile_000.png
+SYNTH-0109,19543.93620116828,stage ia,"Lobular carcinoma, NOS",8520/3,negative,positive,positive,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0109\tile_001.png
+SYNTH-0109,19543.93620116828,stage ia,"Lobular carcinoma, NOS",8520/3,negative,positive,positive,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0109\tile_002.png
+SYNTH-0109,19543.93620116828,stage ia,"Lobular carcinoma, NOS",8520/3,negative,positive,positive,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0109\tile_003.png
+SYNTH-0109,19543.93620116828,stage ia,"Lobular carcinoma, NOS",8520/3,negative,positive,positive,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0109\tile_004.png
+SYNTH-0109,19543.93620116828,stage ia,"Lobular carcinoma, NOS",8520/3,negative,positive,positive,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0109\tile_005.png
+SYNTH-0109,19543.93620116828,stage ia,"Lobular carcinoma, NOS",8520/3,negative,positive,positive,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0109\tile_006.png
+SYNTH-0109,19543.93620116828,stage ia,"Lobular carcinoma, NOS",8520/3,negative,positive,positive,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0109\tile_007.png
+SYNTH-0110,21281.008830612718,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0110\tile_000.png
+SYNTH-0110,21281.008830612718,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0110\tile_001.png
+SYNTH-0110,21281.008830612718,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0110\tile_002.png
+SYNTH-0110,21281.008830612718,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0110\tile_003.png
+SYNTH-0110,21281.008830612718,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0110\tile_004.png
+SYNTH-0110,21281.008830612718,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0110\tile_005.png
+SYNTH-0110,21281.008830612718,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0110\tile_006.png
+SYNTH-0110,21281.008830612718,stage ii,"Infiltrating duct carcinoma, NOS",8500/3,positive,positive,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0110\tile_007.png
+SYNTH-0112,23176.966562903493,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,not reported,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0112\tile_000.png
+SYNTH-0112,23176.966562903493,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,not reported,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0112\tile_001.png
+SYNTH-0112,23176.966562903493,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,not reported,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0112\tile_002.png
+SYNTH-0112,23176.966562903493,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,not reported,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0112\tile_003.png
+SYNTH-0112,23176.966562903493,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,not reported,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0112\tile_004.png
+SYNTH-0112,23176.966562903493,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,not reported,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0112\tile_005.png
+SYNTH-0112,23176.966562903493,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,not reported,negative,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0112\tile_006.png
+SYNTH-0112,23176.966562903493,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,positive,not reported,negative,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0112\tile_007.png
+SYNTH-0114,20562.046027084525,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Dead,female,native hawaiian or other pacific islander,1,C:\Projects\FusionDx\data\tiles\SYNTH-0114\tile_000.png
+SYNTH-0114,20562.046027084525,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Dead,female,native hawaiian or other pacific islander,1,C:\Projects\FusionDx\data\tiles\SYNTH-0114\tile_001.png
+SYNTH-0114,20562.046027084525,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Dead,female,native hawaiian or other pacific islander,1,C:\Projects\FusionDx\data\tiles\SYNTH-0114\tile_002.png
+SYNTH-0114,20562.046027084525,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Dead,female,native hawaiian or other pacific islander,1,C:\Projects\FusionDx\data\tiles\SYNTH-0114\tile_003.png
+SYNTH-0114,20562.046027084525,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Alive,female,native hawaiian or other pacific islander,1,C:\Projects\FusionDx\data\tiles\SYNTH-0114\tile_004.png
+SYNTH-0114,20562.046027084525,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Dead,female,native hawaiian or other pacific islander,1,C:\Projects\FusionDx\data\tiles\SYNTH-0114\tile_005.png
+SYNTH-0114,20562.046027084525,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Dead,female,native hawaiian or other pacific islander,1,C:\Projects\FusionDx\data\tiles\SYNTH-0114\tile_006.png
+SYNTH-0114,20562.046027084525,stage iii,"Infiltrating duct carcinoma, NOS",8500/3,not reported,positive,negative,Alive,female,native hawaiian or other pacific islander,1,C:\Projects\FusionDx\data\tiles\SYNTH-0114\tile_007.png
+SYNTH-0118,19988.195931068105,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,not reported,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0118\tile_000.png
+SYNTH-0118,19988.195931068105,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,not reported,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0118\tile_001.png
+SYNTH-0118,19988.195931068105,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,not reported,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0118\tile_002.png
+SYNTH-0118,19988.195931068105,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,not reported,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0118\tile_003.png
+SYNTH-0118,19988.195931068105,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,not reported,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0118\tile_004.png
+SYNTH-0118,19988.195931068105,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,not reported,Dead,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0118\tile_005.png
+SYNTH-0118,19988.195931068105,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,not reported,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0118\tile_006.png
+SYNTH-0118,19988.195931068105,stage iia,"Infiltrating duct carcinoma, NOS",8500/3,negative,positive,not reported,Alive,female,white,1,C:\Projects\FusionDx\data\tiles\SYNTH-0118\tile_007.png
+SYNTH-0119,23245.87523720402,stage i,"Lobular carcinoma, NOS",8520/3,not reported,not reported,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0119\tile_000.png
+SYNTH-0119,23245.87523720402,stage i,"Lobular carcinoma, NOS",8520/3,not reported,not reported,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0119\tile_001.png
+SYNTH-0119,23245.87523720402,stage i,"Lobular carcinoma, NOS",8520/3,not reported,not reported,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0119\tile_002.png
+SYNTH-0119,23245.87523720402,stage i,"Lobular carcinoma, NOS",8520/3,not reported,not reported,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0119\tile_003.png
+SYNTH-0119,23245.87523720402,stage i,"Lobular carcinoma, NOS",8520/3,not reported,not reported,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0119\tile_004.png
+SYNTH-0119,23245.87523720402,stage i,"Lobular carcinoma, NOS",8520/3,not reported,not reported,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0119\tile_005.png
+SYNTH-0119,23245.87523720402,stage i,"Lobular carcinoma, NOS",8520/3,not reported,not reported,negative,Alive,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0119\tile_006.png
+SYNTH-0119,23245.87523720402,stage i,"Lobular carcinoma, NOS",8520/3,not reported,not reported,negative,Dead,female,white,0,C:\Projects\FusionDx\data\tiles\SYNTH-0119\tile_007.png

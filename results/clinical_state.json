@@ -1,0 +1,28 @@
+{
+  "col_medians": [
+    56.05159378051758,
+    4.0,
+    2.0,
+    2.0,
+    1.0,
+    1.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "feature_cols": [
+    "age_years",
+    "stage_enc",
+    "er_status_enc",
+    "pr_status_enc",
+    "her2_status_enc",
+    "gender_enc",
+    "race_white",
+    "race_black_or_african_american",
+    "race_asian",
+    "race_american_indian_or_alaska_native",
+    "race_native_hawaiian_or_other_pacific_islander"
+  ]
+}

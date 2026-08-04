@@ -1,0 +1,4 @@
+Model,Patients,Accuracy,Precision,Recall,F1,AUROC,AUROC 95% CI
+Image-Only (ResNet-34),18,1.0,1.0,1.0,1.0,1.0,"[1.0, 1.0]"
+Clinical-Only (LightGBM),18,0.8889,0.7901,0.8889,0.8366,0.25,"[0.0, 0.625]"
+Fusion (Cross-Modal Attention),18,1.0,1.0,1.0,1.0,1.0,"[1.0, 1.0]"
