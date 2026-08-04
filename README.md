@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=🧬+FusionDx;Multimodal+Cancer+AI;Image+%2B+Clinical+Data+Fusion" alt="FusionDx" />
+# 🧬 FusionDx
+
+### Multimodal Cancer AI — Histopathology Imaging × Clinical Data
 
 <br/>
 
